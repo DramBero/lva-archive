@@ -1,0 +1,33 @@
+﻿[center][img]http://i.imgur.com/GPKcNjQ.gif[/img]
+[url=http://samp-rp.su/viewtopic.php?f=62&t=2051563][img]http://i.imgur.com/vw4deV2.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051479][img]http://i.imgur.com/QkkZb5l.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051665][img]http://i.imgur.com/CTvk6DG.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051660][img]http://i.imgur.com/NbOGqzY.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051512][img]http://i.imgur.com/shAGRT4.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051529][img]http://i.imgur.com/NADiElZ.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051464][img]http://i.imgur.com/yslluPV.png[/img][/url][/center]
+
+
+
+[center][img]http://x-lines.ru/icp/hiW75/38b63c/1/30/RotpuskPvoennosluZawih.png[/img][/center]
+
+[b][center][size=110][color=#BFFF40]1. Солдат, дослужившийся до Мл.Сержанта, может взять отпуск.
+2. Для того чтобы взять отпуск, оставьте свою заявку по форме.
+3. Для обычных бойцов и офицеров введено ограничение в отпуске не более [u]двух месяцев.[/u]
+4. Для руководства введено ограничение в отпуске не более [u]месяца[/u].[/color][/size][/center][/b]
+
+[b][color=#804040]Пример:[/color][/b]
+
+[b][color=#FFBF40]Ваше Имя Фамилия:[/color] Baters Nise[/b]
+[b][color=#FFFF40]Ваше звание:[/color] Генерал[/b]
+[b][color=#FFFF40]Ваша должность в армии:[/color] Главнокомандующий вооруженных сил армии "Зона 51"[/b]
+[b][color=#FFFF40]Причина отпуска:[/color] Учеба[/b]
+[b][color=#FFFF40]Срок отсутствия:[/color] 13.03.13 - 20.03.13[/b]
+
+
+[b][color=#804040]Заявление оставлять по коду:[/color][/b]
+[code][b][color=#FFBF40]Ваше Имя_Фамилия:[/color] Текст[/b]
+[b][color=#FFFF40]Ваше звание:[/color] Текст[/b]
+[b][color=#FFFF40]Ваша должность в армии:[/color] Текст[/b]
+[b][color=#FFFF40]Причина отпуска:[/color] Текст[/b]
+[b][color=#FFFF40]Срок отсутствия:[/color] Текст[/b][/code]
+
+[b][color=#FF0000]Примечание:[/color] [spoiler][color=#FF4000][list]Отпуск оставляется только на [u]неактив[/u], то есть запрещено оставлять отпуск и играть в увольнительной. Если вы играете, то обязательно должны приезжать на службу.
+
+Боец находящийся в отпуске не имеет право допускаться к повышению до тех пор, пока не истечет срок его отпуска. Если же боец решил выйти из отпуска досрочно, то он обязан закрыть свой отпуск в теме «Отпуск военнослужащих» с пометкой "Закрываю свой отпуск досрочно".[/list][/color][/spoiler][/b]
+
+[b][center][size=120][url=https://docs.google.com/spreadsheets/d/14leTo7MU5JAHiqX7kkXQX857kkiQqp5y-MNtKxNBWqA/pubhtml?gid=701338765&single=true][color=#FFFF80][u]Таблица отпусков.[/u][/color][/url][/size][/center][/b]

@@ -1,0 +1,91 @@
+﻿[center][img]http://i.imgur.com/GPKcNjQ.gif[/img]
+[url=http://samp-rp.su/viewtopic.php?f=62&t=2051563][img]http://i.imgur.com/vw4deV2.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051479][img]http://i.imgur.com/QkkZb5l.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051665][img]http://i.imgur.com/CTvk6DG.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051660][img]http://i.imgur.com/NbOGqzY.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051512][img]http://i.imgur.com/shAGRT4.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051529][img]http://i.imgur.com/NADiElZ.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051464][img]http://i.imgur.com/yslluPV.png[/img][/url][/center]
+
+
+
+[center][img]http://x-lines.ru/icp/ghW43/38B63C/1/24/RstroevoIPustavParmii.png[/img][/center]
+
+
+
+[center][img]http://x-lines.ru/icp/ghW113/999999/0/20/1IG1PobwiePpoloZeniy.png[/img][/center]
+
+
+
+[b][color=#BF0000]1.1[/color] [color=#40BF40]Строй[/color] [color=#BFBFBF]- это установленное размещение военнослужащих, подразделений и частей для их совместных действий в пешем порядке и на машинах.[/color]
+[color=#BF0000]1.2[/color] [color=#40BF40]Фронт[/color] [color=#BFBFBF]- это сторона строя, в которую военнослужащие обращены лицом, а машины лобовой частью.[/color]
+[color=#BF0000]1.3[/color] [color=#40BF40]Тыл[/color] [color=#BFBFBF]- сторона, противоположная фронту.[/color]
+[color=#BF0000]1.4[/color] [color=#40BF40]Фланг[/color] [color=#BFBFBF]- это правая или левая оконечность строя. При поворотах строя названия флангов не изменяются.[/color]
+[color=#BF0000]1.5[/color] [color=#40BF40]Колонна[/color] [color=#BFBFBF]- это строй, в котором военнослужащие расположены в затылок друг другу, а машины одна за другой на дистанциях, установленных уставом или командиром. Колонны могут быть по одному, по два, по три, по четыре и более.[/color]
+[color=#BF0000]1.6[/color] [color=#40BF40]Направляющий[/color] [color=#BFBFBF]- это военнослужащий, подразделение или машина, движущийся головным в указанном направлении. 
+По направляющему сообразуют свое движение остальные военнослужащие, подразделения и машины. [/color]
+[color=#BF0000]1.7[/color] [color=#40BF40]Замыкающий[/color] [color=#BFBFBF]- это военнослужащий, подразделение или машина, движущийся последним в колонне.[/color]
+[color=#BF0000]1.8[/color] [color=#BFBFBF]Командир обязан указать место и время построения, при необходимости назначить наблюдателя.[/color]
+[color=#BF0000]1.9[/color] [color=#BFBFBF]Правила поведения в строю.[/color]
+
+[color=#FF0000]В строю запрещено:[/color]
+[color=#BFBFBF]- Быть АФК.[/color]
+[color=#BFBFBF]- Писать в любой чат.[/color]
+[color=#BFBFBF]- Доставать телефон.[/color]
+Исключение: [color=#FF4000]Опрос.[/color]
+[color=#BFBFBF]- Разговаривать без разрешения старшего по званию.[/color]
+[color=#BFBFBF]- Самовольно покидать строй.[/color]
+[color=#BFBFBF]- Доставать оружие.[/color]
+Исключение: [color=#FF4000]Если Вы ровняетесь с помощью прицела.[/color]
+[color=#BFBFBF]- Использовать /me, /try, /do.[/color]
+[color=#BFBFBF]- Использовать /animlist.[/color]
+Исключение: [color=#FF4000]Приказ от командира.[/color]
+[color=#BFBFBF]- Стрелять без разрешения старшего по званию.[/color][/b]
+
+
+
+[center][img]http://x-lines.ru/icp/ghW113/999999/0/20/2IG1PstroevqePprijmq.png[/img][/center]
+
+
+
+[b][color=#BF0000]2.1[/color] [color=#BFBFBF]Строевые команды.[/color]
+[color=#BF0000]2.1.2[/color] [color=#BFBFBF]Команда[/color] [color=#40BF40]"Ровняйсь!"[/color] [color=#BFBFBF]- все военнослужащие в строю должны повернуть свою голову вправо. Направляющий же держит голову строго прямо. Строй при этом должен быть идеально ровным.[/color]
+[color=#BF0000]2.1.3[/color] [color=#BFBFBF]Команда[/color] [color=#40BF40]"Смирно!"[/color] [color=#BFBFBF]- все военнослужащие смотрят строго прямо. После этой команды военнослужащий должен стоять и внимательно слушать офицера. Задавать любые вопросы запрещено.[/color]
+[color=#BF0000]2.1.4[/color] [color=#BFBFBF]Команда[/color] [color=#40BF40]"Вольно!"[/color] [color=#BFBFBF]- означает вольное расположение в строю, но при этом вы не должны его покидать.[/color] 
+Примечание: [color=#FF4000]При команде "Вольно" бойцы имеют право доставать телефон, разговаривать, быть в AFK.[/color]
+[color=#BF0000]2.1.5[/color] [color=#BFBFBF]Команда[/color] [color=#40BF40]"Разойтись!"[/color] [color=#BFBFBF]- команда, означающая то, что вы можете покинуть строй.[/color]
+[color=#BF0000]2.1.6[/color] [color=#BFBFBF]Команда[/color] [color=#40BF40]"Головные уборы снять!"[/color] [color=#BFBFBF]- военнослужащие должны снять головные уборы и надеть кепку ([/color][color=#80BF80]/clist 7[/color][color=#BFBFBF]).[/color]
+[color=#BF0000]2.1.7[/color] [color=#BFBFBF]Команда[/color] [color=#40BF40]"Головные уборы надеть!"[/color] [color=#BFBFBF]- военнослужащие должны надеть головной убор своего взвода.[/color]
+[color=#BF0000]2.1.8[/color] [color=#BFBFBF]При команде[/color] [color=#40BF40]"Бойцы, оружие на караул!"[/color] [color=#BFBFBF]- все военнослужащие в строю должны взять в руки оружие. [/color]
+[color=#BF0000]2.1.9[/color] [color=#BFBFBF]При команде[/color] [color=#40BF40]"Бойцы, оружие за плечо!"[/color] [color=#BFBFBF]- все военнослужащие в строю должны должны убрать оружие.[/color]
+[color=#BF0000]2.2[/color] [color=#BFBFBF]Повороты на месте.[/color]
+[color=#BF0000]2.2.1[/color] [color=#BFBFBF]Повороты на месте выполняются по командам:[/color] [color=#40BF40]"Напра-во!"[/color][color=#BFBFBF],[/color] [color=#40BF40]"Нале-во!"[/color][color=#BFBFBF],[/color] [color=#40BF40]"Кру-гом!"[/color][color=#BFBFBF].[/color]
+[color=#BFBFBF]Повороты кругом, налево производятся в сторону левой руки. Повороты направо в сторону правой руки. [/color]
+[color=#BF0000]2.3[/color] [color=#BFBFBF]Движение.[/color]
+[color=#BF0000]2.3.1[/color] [color=#BFBFBF]Движение совершается шагом или бегом.[/color]
+[color=#BF0000]2.3.2[/color] [color=#BFBFBF]Во время движения может быть подана команда:[/color] [color=#40BF40]"Вспышка слева/справа/с фронта/с тыла!"[/color][color=#BFBFBF]. Она означает, что вы должны отпрыгнуть в противоположную сторону, пригнув голову и закрыв ее руками.[/color]
+[color=#BF0000]2.4[/color] [color=#BFBFBF]Повороты в движении.[/color]
+[color=#BF0000]2.4.1[/color] [color=#BFBFBF]Повороты в движении выполняются по командам:[/color] [color=#40BF40]"Напра-во!"[/color][color=#BFBFBF],[/color] [color=#40BF40]"Нале-во!"[/color][color=#BFBFBF],[/color] [color=#40BF40]"Кругом-марш!"[/color][color=#BFBFBF].[/color]
+[color=#BF0000]2.4.2[/color] [color=#BFBFBF]При плавном повороте во время движения может быть подана команда[/color] [color=#40BF40]"Правое/Левое плечо заноси!"[/color][color=#BFBFBF].[/color]
+[color=#BF0000]2.5[/color] [color=#BFBFBF]Перестроение по шеренгам.[/color]
+[color=#BF0000]2.5.1[/color] [color=#BFBFBF]Перестроение в две шеренги:[/color]
+[color=#BFBFBF]В начале подается команда[/color] [color=#40BF40]"Бойцы, на первый, второй... рассчитайсь!"[/color][color=#BFBFBF], после расчёта подается команда[/color] [color=#40BF40]"Бойцы, в две шеренги... становись!"[/color][color=#BFBFBF]. Первые номера остаются на месте, вторые заходят за первые номера.[/color]
+[color=#BF0000]2.5.2[/color] [color=#BFBFBF]Перестроение в три шеренги:[/color]
+[color=#BFBFBF]В начале подается команда[/color] [color=#40BF40]"Бойцы, на первый, второй, третий... рассчитайсь!"[/color][color=#BFBFBF], после расчёта подается команда[/color] [color=#40BF40]"Бойцы, в три шеренги... становись!"[/color][color=#BFBFBF]. Первые номера встают перед вторыми номерами, вторые номера остаются на месте, третьи  заходят за вторые номера.[/color][/b]
+
+
+
+[center][img]http://x-lines.ru/icp/ghW113/999999/0/20/3IG1PpostroeniePvPpeSemPporydke.png[/img][/center]
+
+
+
+[b][color=#BF0000]3.1[/color] [color=#BFBFBF]Построение взвода.[/color]
+[color=#BF0000]3.1.2[/color] [color=#BFBFBF]Развернутый строй взвода может быть одношереножный, двухшереножный, трехшереножный. [/color]
+[color=#BF0000]3.1.3[/color] [color=#BFBFBF]Строить взвод могут старшие офицеры, руководство взвода, тренер взвода.[/color]
+[color=#BF0000]3.1.4[/color] [color=#BFBFBF]На построении взвода вне строя могут находиться старшие офицеры, руководство взвода, тренер взвода.[/color]
+[color=#BF0000]3.1.5[/color] [color=#BFBFBF]Перестроение взвода из развернутого одношереножного строя в колонну по одному, из двухшереножного строя в колонну по два, из трехшереножного по три, производится поворотом взвода направо.[/color]
+[color=#BF0000]3.1.6[/color] [color=#BFBFBF]Перестроение взвода из колонны по одному в развернутый одношереножный/двухшереножный/трехшереножный строй производится поворотом взвода налево.[/color]
+[color=#BF0000]3.2[/color] [color=#BFBFBF]Построение роты.[/color]
+[color=#BF0000]3.2.1[/color] [color=#BFBFBF]Строй роты проходит построением повзводно, интервал между взводами должен быть пару шагов.
+При необходимости рота может быть построена в одношереножный строй.[/color]
+[color=#BF0000]3.2.2[/color] [color=#BFBFBF]При построении роты вне строя могут находиться только старшие офицеры.[/color]
+[color=#BF0000]3.2.3[/color] [color=#000000]СОБР[/color][color=#BFBFBF],[/color] [color=#004080]ОСН "Рысь"[/color][color=#BFBFBF],[/color] [color=#0000FF]СВСС[/color] [color=#BFBFBF]состоят в [u]специальной роте[/u].[/color] [color=#FF8080]Комендатура[/color][color=#BFBFBF],[/color] [color=#FF40BF]ВО[/color] [color=#BFBFBF]и[/color] [color=#FFBF40]Тех. Часть[/color] [color=#BFBFBF]состоят в [u]вспомогательной роте[/u].[/color] [color=#00FF00]Первый[/color][color=#BFBFBF],[/color] [color=#BFBF00]Второй[/color] [color=#BFBFBF]и[/color] [color=#FF4000]Третий[/color] [color=#BFBFBF]взводы состоят в [u]охранной роте[/u].[/color]
+[color=#BF0000]3.2.4[/color] [color=#BFBFBF]Построить охранную/специальную роту могут Генерал и его заместители, ротный и его заместитель. [/color]
+Примечание: [color=#FF4000]Если в части нет вышеуказанных лиц, то строить роту может любой старший офицер.[/color]
+[color=#BF0000]3.3[/color] [color=#BFBFBF]Общее построение армии.[/color]
+[color=#BF0000]3.3.1[/color] [color=#BFBFBF]Общее построение могут объявлять старшие офицеры, Глава GNK и выше, Мэр, Министр Обороны.[/color]
+[color=#BF0000]3.3.2[/color] [color=#BFBFBF]Напротив строя могут стоять только старшие офицеры.[/color][/b]

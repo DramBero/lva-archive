@@ -1,0 +1,173 @@
+﻿[center][img]http://i.imgur.com/GPKcNjQ.gif[/img]
+[url=http://samp-rp.su/viewtopic.php?f=62&t=2051563][img]http://i.imgur.com/vw4deV2.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051479][img]http://i.imgur.com/QkkZb5l.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051665][img]http://i.imgur.com/CTvk6DG.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051660][img]http://i.imgur.com/NbOGqzY.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051512][img]http://i.imgur.com/shAGRT4.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051529][img]http://i.imgur.com/NADiElZ.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051464][img]http://i.imgur.com/yslluPV.png[/img][/url][/center]
+
+
+
+[center][img]https://i.imgur.com/cxwSWQt.jpg[/img][/center]
+
+
+
+[center][size=104][color=#FF0040][b]Взвод обеспечения[/b][/color] [b]— специальный взвод армии Лас-Вентураса, основной задачей которого является снабжение боеприпасами всех государственных силовых структур. 
+Взвод поделён на стажёров и основной состав.[/b][/size][/center]
+
+
+
+[center][img]https://i.imgur.com/Urd4BgP.jpg[/img][/center]
+
+
+
+[size=104][color=#FF0040][b]Права и обязанности бойцов ВО:[/b][/color][/size]
+[spoiler=][size=102][b][color=#FF0040]•[/color] [color=#AAAAAA]ВО работает и занимается обеспечением гос. структур боеприпасами и оружием 24 часа в сутки и 7 дней в неделю (исключение: тренировки/лекции);[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Бойцы взвода обязаны беспрекословно выполнять приказы взводного ВО и его заместителей;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Бойцы взвода обязаны знать и соблюдать устав взвода, правила поведения в колонне и правила дорожного движения [/pdd];[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Бойцы взвода обязаны знать и применять доклады по форме;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Бойцы взвода обязаны носить с собой канистру с топливом;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]При несении службы в части, бойцы взвода обязаны носить повязку взвода (основной состав — /clist 15, стажеры — /clist 16);[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]При выходе на связь, бойцы взвода обязаны докладывать об этом в рацию и немедленно приступать к работе;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]При условии, что все грузовики-матовозы заняты, бойцы взвода обязаны выезжать в сопровождение колонны, садясь на пассажирское сиденье грузовика-матовоза (либо на хаммере, с вооружённым напарником);[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]При условии, что все грузовики-матовозы заняты и всем колоннам уже устроено сопровождение, бойцы взвода обязаны занимать пост "Ангары";[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Бойцы взвода имеют право на отдых в специально выделенном для этого месте в 1 ангаре.[/color][/b][/size][/spoiler]
+[size=104][color=#FF0040][b]Запрещается:[/b][/color][/size]
+[spoiler=][size=102][b][color=#FF0040]•[/color] [color=#AAAAAA]Использовать грузовики-матовозы не в целях развозки боеприпасов;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Стажёрам взвода становиться в начало колонны (исключение: отсутствие бойцов из основного состава взвода);[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Стажёрам взвода выезжать в рейс без бойцов из основного состава взвода (исключение: отсутствие бойцов из основного состава взвода);[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Выезжать в рейс без повязки взвода своего подразделения;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Выезжать в рейс с состоянием топлива в бензобаке грузовика-матовоза менее 30 литров;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Доводить уровень топлива в бензобаке грузовика-матовоза до нуля [Fuel 0];[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Возить остатки груза из одного города в другой;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Съезжать с маршрута по которому движется колонна;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Ездить в населённых пунктах без включенной сирены;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Продолжать развозку, если на складе армии остаётся меньше 30000 боеприпасов;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]В одиночку развозить боеприпасы;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Загонять в ангар грузовик-матовоз с остатками боеприпасов;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Пользоваться телефоном во время рейса;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Отбирать у сослуживцев грузовики-матовозы;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Выезжать в рейс на сломанном грузовике-матовозе [ХП авто /dl 500 и меньше];[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Выезжать в рейс в плохом самочувствии или с разбитым бронежилетом [ХП или броня персонажа менее 50%].[/color][/b][/size][/spoiler]
+[size=104][color=#FF0040][b]Доклады:[/b][/color][/size]
+[spoiler=][size=102][b][color=#40FF00]При выезде[/color] [color=#AAAAAA]с части, поставляя боеприпасы государственным организациям, "ведущий" колонны [первый грузовик] делает доклад по форме:[/color][/b][/size]
+[code]/r Матовозы выезжают в *название гос. структуры* в кол-ве *число матовозов* грузовиков.[/code][size=104][b][color=#AAAAAA]Пример:[/color][/b]
+
+[b][color=#8080FF] Ефрейтор Amir_Vetinari: [ВО]: Матовозы выезжают в СФА в кол-ве 3 грузовиков.[/color][/b][/size]
+
+
+[size=102][b][color=#FF0000]По прибытии[/color] [color=#AAAAAA]на место назначения, доставив боеприпасы, "замыкающий" колонны [последний грузовик] делает доклад по форме:[/color][/b][/size]
+[code]/r Боеприпасы доставлены в *название гос. структуры* *кол-во доставленных грузовиков/выехавших в рейс*. На складе: *сколько на складе*.[/code][size=104][b][color=#AAAAAA]Пример:[/color][/b]
+
+[b][color=#8080FF]Рядовой Amir_Vetinari: [Стажёр ВО]: Боеприпасы доставлены в СФА 3/3. На складе: 90000.[/color][/b][/size][/spoiler]
+[size=104][color=#FF0040][b]Мониторинг:[/b][/color][/size]
+[spoiler=][size=102][b][color=#AAAAAA]Мониторинг состояния складов – данную функцию выполняет взводный или один из его заместителей.
+В их отсутствии на связи, обязанность ложится на самого старшего бойца с основного состава взвода, при уходе со связи [выходе из игры], он обязан передать данные и руководство мониторингом другому бойцу:[/color][/b][/size]
+[code]/r ЛСПД - *цифра/статус*, СФПД - *цифра/статус*, ЛВПД - *цифра/статус*, СФА - *цифра/статус*, ФБР - *цифра/статус*.[/code][size=102][b][color=#AAAAAA]Пример:[/color][/b]
+
+[b][color=#8080FF]Мл.Лейтенант Amir_Vetinari: [Зам.Взв. ВО]: ЛСПД - 72160, СФПД полон, ЛВПД - 82000, СФА - полон, ФБР - полон.[/color][/b][/size][/spoiler]
+
+
+
+[center][img]https://i.imgur.com/xrf7ThS.jpg[/img][/center]
+
+
+
+[spoiler=][size=102][b][color=#FF0040]•[/color] [color=#AAAAAA]В рейс разрешено выезжать только от 2 грузовиков и больше;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Главная задача во время рейса у грузовиков-матовозов — доставка груза до места назначения;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Во время рейса строго запрещается обгонять и подрезать других участников колонны;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Во время рейса, сопровождению на хаммерах строго запрещается подрезать грузовики-матовозы и становиться в середину колонны [держаться только перед ведущим или за замыкающим];[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Доклад о доставке делается не на месте разгрузки, а проехав подальше и по возможности свернув на обочину;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Сопровождению запрещается проезжать внутрь охраняемых территорий, вместе с грузовиками-матовозами (например в СФА);[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Во время рейса строго запрещается покидать кабину грузовика-матовоза (исключение: поломка грузовика-матовоза);[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]При нападении на колонну, в рацию обязательно должен следовать доклад с указанием сектора или места нападения;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]При рейсах в СФ, разгрузившиеся грузовики-матовозы обязаны ждать развозящих остатки [url=https://i.imgur.com/VpXnQ2X.png]на обочине моста в секторе Л-6 [кликабельно][/url].[/color][/b][/size][/spoiler]
+
+
+
+[center][img]https://i.imgur.com/1mVi5Y2.jpg[/img][/center]
+
+
+
+[size=104][color=#FF0040][b]Стажировка во взводе:[/b][/color][/size]
+[size=90][b][color=#FF0040]•[/color] [color=#AAAAAA]Стажировка во взводе длится 3 дня.[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Перевод в основной состав осуществляется по решению руководства, и только бойцов со звания Ефрейтор и выше.[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Перед переводом в основу, боец проходит опрос который включает в себя:[/color]
+
+[color=#FF0040]1.[/color] [color=#AAAAAA]Проверку на знание устава взвода и общего устава армии;[/color]
+[color=#FF0040]2.[/color] [color=#AAAAAA]Проверку на знание правил поведения в колонне и правил дорожного движения;[/color]
+[color=#FF0040]3.[/color] [color=#AAAAAA]Практику на знание маршрутов рейсов.[/color]
+
+[color=#FF0040]•[/color] [color=#AAAAAA]При удачном прохождении опроса, боец переводится в основной состав взвода, при неудачном — остаётся стажёром вплоть до пересдачи через 3 дня после провала.[/color][/b][/size]
+
+[size=104][color=#FF0040][b]Дежурство на ангарах - обязанности дежурного:[/b][/color][/size]
+[size=90][b][color=#FF0040]•[/color] [color=#AAAAAA]Починка и заправка матовозов;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Проверка каждого, кто берёт матовоз;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Поимка клоунов.[/color][/b][/size]
+
+[size=104][color=#FF0040][b]Повышения бойцов взвода:[/b][/color][/size]
+[size=90][b][color=#FF0040]•[/color] [color=#AAAAAA]Для получения звания Ефрейтор, бойцу необходимо сдать отчет о 13 рейсах и 5 заправках матовозов;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Для получения звания Мл.Сержант, бойцу необходимо сдать отчет о 16 рейсах и 4 заправках матовоза;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Мл. Сержанты и выше повышается каждую неделю по отчетам руководства;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]При предоставлении одного отчета о рейсах, выполнив следующую норму, боец ВО имеет право сразу оставить следующий отчет.[/color][/b][/size]
+
+
+
+[center][img]https://i.imgur.com/iDvAKq5.jpg[/img][/center]
+
+
+
+[size=104][b][color=#FF0040]Скриншоты предоставлять в виде галерей на фотохостингах:[/color][/b][/size]
+[size=90][url]http://postimage.org[/url][/size]
+
+[size=104][b][color=#FF0040]Примечание:[/color][/b][/size]
+[size=90][b][color=#FF0040]•[/color] [color=#AAAAAA]На скриншоте должен быть виден момент разгрузки;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Засчитывается доставка с разгрузкой минимум 5 тысяч боеприпасов;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Разгрузка остатков груза в счёт не идёт;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]На скриншоте должно быть /time;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]На скриншоте должна быть произведена /me-отыгровка от водителя: "/me расписался в ведомости о доставке";[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Заправку матовоза осуществлять только когда в нем менее 100 литров топлива;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Отредактированные скриншоты не принимаются;[/color]
+[color=#FF0040]•[/color] [color=#AAAAAA]Все скриншоты должны идти по порядку хронологии /time (включая даты).[/color][/b][/size]
+[size=104][b][color=#FF0040]Пример скриншота доставки:[/color][/b][/size]
+[spoiler=][img]http://i.imgur.com/VnAe5vi.png[/img][/spoiler]
+[size=104][b][color=#FF0040]Пример скриншота заправки:[/color][/b][/size]
+[spoiler=][img]http://i.imgur.com/WhTfZbZ.png[/img][/spoiler]
+[size=102][b][color=#AAAAAA]Отчет о выполненной норме доставок оставлять в этой теме!
+Для повышения в звании, боец ВО должен оставить отчет о выполнении им нормы доставок боеприпасов по следующему коду:[/color][/b][/size]
+
+[code][color=#FFD700][b]Я,[/b][/color] [color=#40FF00][b]*Имя Фамилия*[/b][/color][color=#FFD700][b], находясь в звании[/b][/color] [b][color=#40FF00]*звание*[/color][/b][color=#FFD700][b], предоставляю отчет о выполненной мной работе в период[/b][/color] [b][color=#40FF00]с **/**/** по **/**/**[/color][/b][b][color=#FFD700].[/color][/b]
+[color=#FFD700][b]За этот период мной было выполнено[/b][/color] [color=#40FF00][b]*кол-во рейсов*[/b][/color] [color=#FFD700][b]рейсов, а так же [/b][/color] [color=#40FF00][b]*кол-во заправок*[/b][/color] [color=#FFD700][b]заправок матовоза.[/b][/color]
+
+[color=#FFD700][b]При дежурстве на ангарах мною было ликвидировано:[/b][/color]
+[color=#FF0000]*цифра* клоунов[/color][b][color=#FFD700].[/color][/b]
+[color=#FFD700][b]Так же я предоставляю доказательства своей работы:[/b][/color]
+[url=ссылку вставлять сюда]доставки[/url]
+[url=ссылку вставлять сюда]заправки[/url]
+[right][color=#FFD700][b]Подпись:[/b][/color] [b]*текст*[/b][/right][/code]
+[center][img]https://i.imgur.com/kbfrGQy.jpg[/img][/center]
+[center][size=104][b]СФА[/b][/size]
+[spoiler=][size=102][color=#FF0040][b]Основной маршрут[/b][/color][/size]
+[youtube]http://www.youtube.com/watch?v=BZK3UCsbXyk[/youtube]
+[size=102][color=#FF0040][b]Запасной маршрут[/b][/color][/size]
+[youtube]http://www.youtube.com/watch?v=p4RSYrvsKdY[/youtube]
+[size=102][color=#FF0040][b]Запасной маршрут №2[/b][/color][/size]
+[youtube]http://www.youtube.com/watch?v=f0JCOGd3tXM[/youtube][/spoiler]
+[size=104][b]ФБР[/b][/size]
+[spoiler=][size=102][color=#FF0040][b]Основной маршрут[/b][/color][/size]
+[youtube]http://www.youtube.com/watch?v=QMhdmhrZICU[/youtube][/spoiler]
+[size=104][b]ЛСПД[/b][/size]
+[spoiler=][size=102][color=#FF0040][b]Основной маршрут[/b][/color][/size]
+[youtube]http://www.youtube.com/watch?v=YCO7NdSZc1o[/youtube]
+[size=102][color=#FF0040][b]Запасной маршрут[/b][/color][/size]
+[youtube]http://www.youtube.com/watch?v=dY6wQBr8QL8[/youtube][/spoiler]
+[size=104][b]СФПД[/b][/size]
+[spoiler=][size=102][color=#FF0040][b]Основной маршрут[/b][/color][/size]
+[youtube]http://www.youtube.com/watch?v=1Wta8jXJtEU[/youtube][/spoiler]
+[size=104][b]ЛВПД[/b][/size]
+[spoiler=][size=102][color=#FF0040][b]Основной маршрут[/b][/color][/size]
+[youtube]http://www.youtube.com/watch?v=Oty5tqzkzCY[/youtube]
+[size=102][color=#FF0040][b]Запасной маршрут[/b][/color][/size]
+[youtube]http://www.youtube.com/watch?v=3jt5vV8JfB8[/youtube][/center][/spoiler]
+[size=104][b][color=#FF0040]Примечание.[/color][/b][/size] 
+[size=90][b][color=#AAAAAA]Для рейсов в СФПД и ФБР, разрешается использовать запасные маршруты в СФА.[/color][/b][/size]
+
+
+
+[center][url=https://docs.google.com/spreadsheets/d/1ndYKrQKxmMAK2huo_hMs6bNb7i39frUEjTwDsqUkvrg/pubhtml#][img]https://i.imgur.com/E7ORUO9.jpg[/img]
+[img]http://i.imgur.com/TdB5hfF.gif[/img][/url][/center]

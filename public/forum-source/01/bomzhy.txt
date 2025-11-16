@@ -1,0 +1,222 @@
+﻿[center][img]http://i.imgur.com/GPKcNjQ.gif[/img]
+[url=http://samp-rp.su/viewtopic.php?f=62&t=2051563][img]http://i.imgur.com/vw4deV2.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051479][img]http://i.imgur.com/QkkZb5l.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051665][img]http://i.imgur.com/CTvk6DG.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051660][img]http://i.imgur.com/NbOGqzY.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051512][img]http://i.imgur.com/shAGRT4.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051529][img]http://i.imgur.com/NADiElZ.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051464][img]http://i.imgur.com/yslluPV.png[/img][/url][/center]
+
+
+
+[center][img]http://i.yapx.ru/yiyD.png[/img][/center]
+
+
+
+[b][size=95][color=#BFBFBF]Повязка взвода - [/color][color=#40FF80]/clist 2[/color][/size][/b]
+
+[img]http://x-lines.ru/icp/ghW124/00FF80/1/14/RzRaRdRaRCRiID1.png[/img]
+
+[b][size=95][color=#BF0000]•[/color] [color=#BFBFBF]Взвод обеспечивает охрану транспортной части "Зоны 51".[/color]
+[color=#BF0000]•[/color] [color=#BFBFBF]Взвод отвечает за безопасный въезд и выезд матовозов с части, а также предотвращение попыток угона матовозов.[/color]
+[color=#BF0000]•[/color] [color=#BFBFBF]Посты ниже расположены по приоритету важности, от наиболее важного к наименее приоритетному.[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Взвод обеспечивает охрану на следующих постах:[/color][/size][/b]
+
+[b][size=95][color=#BF0000]1.[/color] [color=#40FF80]Сетка.[/color][/size][/b]
+[spoiler][img]https://s7.postimg.org/z246r5oe3/image.jpg[/img][img]https://s7.postimg.org/49bh0l9yz/image.jpg[/img]
+[b][size=95][color=#BFBFBF]Максимальное количество на посту:[/color] [color=#BF0000]5[/color][color=#BFBFBF].[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Правила поведения на посту:[/color][/size]
+[size=95][color=#40FF80]•[/color] [color=#BFBFBF]Если вы увидели постороннего на посту, то вы обязаны приказать ему покинуть территорию и дать отсчет до [u]пяти[/u], если это его не убедит, то сделайте предупредительный выстрел в воздух, если и после этого посторонний отказывается покинуть территорию, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size]
+[size=95][color=#40FF80]•[/color] [color=#BFBFBF]На пост ставится [u]один[/u] матовоз и [u]два[/u] хаммера.
+Перед взятием матовоза, вы обязаны сделать доклад в рацию.[/color][/size]
+[code]/r [1 взвод]: Беру матовоз на пост "Сетка".[/code]
+[size=95][color=#40FF80]•[/color] [color=#BFBFBF]При выезде колонны грузовиков-матовозов, проверка документов у колонны не осуществляется, при условии соблюдения указанного в докладе количества выезжающих грузовиков-матовозов.[/color][/size]
+[size=95][color=#40FF80]•[/color] [color=#BFBFBF]Если находясь на посту вы увидели как в сторону поста на всей скорости движется матовоз, и вы понимаете, что он не собирается останавливаться, а идёт на таран, то вы имеете полное право открыть огонь на поражение.[/color][/size][/b][/spoiler]
+
+[right][b][size=95][color=#BF0000]2.[/color] [color=#40FF80]ГС - Главный склад.[/color][/size][/b]
+[spoiler][img]http://s019.radikal.ru/i613/1508/09/26d5e61a6d49.jpg[/img]
+[b][size=95][color=#BFBFBF]Максимальное количество на посту:[/color] [color=#BF0000]5[/color][color=#BFBFBF].[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Правила поведения на посту:[/color][/size]
+[size=95][color=#40FF80]•[/color] [color=#BFBFBF]Если находясь на посту, вы увидели как посторонний проник в часть, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size]
+[size=95][color=#40FF80]•[/color] [color=#BFBFBF]Если вы увидели как из ангаров выезжает матовоз без опознавательных знаков[/color] [color=#FF0040]ВО[/color] [color=#BFBFBF]или же другого спец.взвода армии (то есть с /clist 0), то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size][/b][/spoiler][/right]
+
+[b][size=95][color=#BF0000]3.[/color] [color=#40FF80]Переход.[/color][/size][/b]
+[spoiler][img]http://s017.radikal.ru/i441/1508/f7/034e99958f16.jpg[/img]
+[b][size=95][color=#BFBFBF]Максимальное количество на посту:[/color] [color=#BF0000]4[/color][color=#BFBFBF].[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Правила поведения на посту:[/color][/size]
+[size=95][color=#40FF80]•[/color] [color=#BFBFBF]Если вы увидели постороннего за забором, то вы обязаны приказать ему покинуть территорию и дать отсчет до [u]пяти[/u], если это его не убедит, то сделайте предупредительный выстрел в воздух, если и после этого посторонний отказывается покинуть территорию, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size]
+[size=95][color=#40FF80]•[/color] [color=#BFBFBF]Если находясь на посту, вы увидели как посторонний проник в часть, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size][/b][/spoiler]
+
+[right][b][size=95][color=#BF0000]4.[/color] [color=#40FF80]Южное ОПЗ - ЮОПЗ.[/color][/size][/b]
+[spoiler][img]http://s017.radikal.ru/i440/1509/84/8a6099a98b92.jpg[/img]
+[b][size=95][color=#BFBFBF]Максимальное количество на посту:[/color] [color=#BF0000]5[/color][color=#BFBFBF].[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Правила поведения на посту:[/color][/size]
+[size=95][color=#40FF80]•[/color] [color=#BFBFBF]Пост охраняется методом караула.[/color][/size]
+[size=95][color=#40FF80]•[/color] [color=#BFBFBF]Если вы увидели как через забор проникли посторонние, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size][/b][/spoiler][/right]
+
+[img]http://x-lines.ru/icp/ghW124/00FF80/1/14/RtReRgRiPRvRzRvRoRdRaID1.png[/img]
+[code]/r [Взв. 1 взвода]:
+/r [Зам.Взв. 1 взвода]:
+/r [1 взвод]:[/code]
+
+[img]http://x-lines.ru/icp/ghW124/00FF80/1/14/RdRoRkRlRaRdRqID1.png[/img]
+
+[b][size=95][color=#BFBFBF]Взвод обязан докладывать в рацию о состоянии поста и при незаконном проникновении в часть "Зона 51".
+Доклады только при нападении и отражении нападения.[/color][/size][/b]
+[code]/r [1 взвод]: Пост: Сетка; Бойцов: 4/5; Состояние: Нападение.
+/r [1 взвод]: Пост: Переход; Бойцов: 2/4; Состояние: Враг ликвидирован.[/code]
+
+[center][url=https://docs.google.com/spreadsheets/d/1yAon25vkuL5-IXC8cu4A2z88EUK8kwc07qAm6J91oqg/pubhtml][img]http://x-lines.ru/icp/ghW124/00FF80/1/14/RsRoRsRtRaRvPRpReRrRvRoRgRoPRvRzRvRoRdRa.png[/img][/url]
+[img]http://i.imgur.com/TdB5hfF.gif[/img][/center]
+
+[Right][size=75][color=#808080]© Anna Wexler, Don Johnson
+Доработал: Matthew Cameron, Joseph Cameron.[/color][/size][/Right]
+
+
+
+[center][img]http://i.yapx.ru/yiw6.png[/img][/center]
+
+
+
+[b][size=95][color=#BFBFBF]Повязка взвода - [/color][color=#BF8000]/clist 29[/color][/size][/b]
+
+[img]http://x-lines.ru/icp/ghW124/B47B10/1/14/RzRaRdRaRCRiID1.png[/img]
+
+[b][size=95][color=#BF0000]•[/color] [color=#BFBFBF]Взвод обеспечивает охрану западной и юго-западной части армии "Зона 51".[/color]
+[color=#BF0000]•[/color] [color=#BFBFBF]Взвод отвечает за контроль проверки и пропуска бойцов в часть.[/color]
+[color=#BF0000]•[/color] [color=#BFBFBF]Посты ниже расположены по приоритету важности, от наиболее важного к наименее приоритетному.[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Взвод обеспечивает охрану на следующих постах:[/color][/size][/b]
+
+[b][size=95][color=#BF0000]1.[/color] [color=#BF8000]Контрольно пропускной пункт - КПП.[/color][/size][/b]
+[spoiler][img]http://s49.radikal.ru/i125/1509/87/a4738e7d045b.jpg[/img]
+[b][size=95][color=#BFBFBF]Максимальное количество на посту:[/color] [color=#BF0000]5[/color][color=#BFBFBF].[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Правила поведения на посту:[/color][/size]
+[size=95][color=#BF8000]•[/color] [color=#BFBFBF]На пост ставится хаммер №83.[/color][/size]
+[size=95][color=#BF8000]•[/color] [color=#BFBFBF]Находясь на посту, перед проверкой документов вы обязаны представиться после чего попросить документы.[/color][/size]
+[code]Здравия желаю, Ефрейтор Пупкин, предъявите ваши документы.[/code]
+[size=95][color=#BFBFBF]После предоставления документов вы должны уведомить военнослужащего, что вы сделаете доклад о его прибытии.[/color][/size]
+[code]/r [2 взвод]: В часть прибыл Прапорщик Пупкин.[/code]
+[size=95][color=#BFBFBF]После осуществления доклада вы имеете право пропустить его в часть.[/color][/size]
+
+[youtube]http://www.youtube.com/watch?v=qkDecs7W6R4[/youtube]
+[size=95][color=#BFBFBF]Если после проверки документов, оказалось, что человек на служит в армии "Зона 51", и не состоит в списке лиц кому разрешено находится в части ([url=http://samp-rp.su/viewtopic.php?f=13&t=1509113][u]пункт устава №3[/u][/url]) то вы обязаны приказать ему покинуть территорию и дать отсчет до [u]пяти[/u], если это его не убедит, то сделайте предупредительный выстрел в воздух, если и после этого посторонний отказывается покинуть территорию, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size]
+[size=95][color=#BF8000]•[/color] [color=#BFBFBF]Если находясь на посту, вы увидели как посторонний проник в часть, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size][/b][/spoiler]
+
+[right][b][size=95][color=#BF0000]2.[/color] [color=#BF8000]ВП - вертолетная площадка.[/color][/size][/b]
+[spoiler][img]http://s017.radikal.ru/i409/1509/d4/e6a33725919f.jpg[/img]
+[b][size=95][color=#BFBFBF]Максимальное количество на посту:[/color] [color=#BF0000]3[/color][color=#BFBFBF].[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Правила поведения на посту:[/color][/size]
+[size=95][color=#BF8000]•[/color] [color=#BFBFBF]На данном посту производится охрана двух вертолетов.[/color][/size]
+[size=95][color=#BF8000]•[/color] [color=#BFBFBF]Если вы видите как за штурвал вертолета садится боец без повязки и бронежилета, то вы должны спросить у него документы, в случае отказа предоставлять документы, или же, если он окажется не бойцом армии "Зона 51", то вы имеете [u]полное право[/u] его нейтрализовать.[/color][/size]
+[size=95][color=#BF0000]Задача:[/color] [color=#BFBFBF]не дать угнать сливщикам или клоунам угнать вертолет.[/color][/size]
+[size=95][color=#BF8000]•[/color] [color=#BFBFBF]Если находясь на посту, вы увидели как посторонний проник в часть, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size][/b][/spoiler][/right]
+
+[b][size=95][color=#BF0000]3.[/color] [color=#BF8000]Бараки.[/color][/size][/b]
+[spoiler][img]http://s018.radikal.ru/i503/1509/0b/515d8c889d13.jpg[/img]
+[b][size=95][color=#BFBFBF]Максимальное количество на посту:[/color] [color=#BF0000]6[/color][color=#BFBFBF].[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Правила поведения на посту:[/color][/size]
+[size=95][color=#BF8000]•[/color] [color=#BFBFBF]Если находясь на посту, вы увидели как посторонний проник в часть, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size][/b][/spoiler]
+
+
+[img]http://x-lines.ru/icp/ghW124/B47B10/1/14/RtReRgRiPRvRzRvRoRdRaID1.png[/img]
+[code]/r [Взв. 2 взвода]:
+/r [Зам.Взв. 2 взвода]:
+/r [2 взвод]:[/code]
+
+[img]http://x-lines.ru/icp/ghW124/B47B10/1/14/RdRoRkRlRaRdRqID1.png[/img]
+
+[b][size=95][color=#BFBFBF]Взвод обязан докладывать в рацию о состоянии поста и при незаконном проникновении в часть "Зона 51".
+Доклады только при нападении и отражении нападения.[/color][/size][/b]
+[code]/r [2 взвод]: Пост: КПП; Бойцов: 4/5; Состояние: Нападение.
+/r [2 взвод]: Пост: Бараки; Бойцов: 3/6; Состояние: Враг ликвидирован.[/code]
+
+[center][url=https://docs.google.com/spreadsheets/d/14kPZbmOP7eMPNDT1qo6vLHzrf9aZPDjlUh3oXyJOfg0/pubhtml][img]http://x-lines.ru/icp/ghW124/B47B10/1/14/RsRoRsRtRaRvPRvRtRoRrRoRgRoPRvRzRvRoRdRa.png[/img][/url]
+[img]http://i.imgur.com/TdB5hfF.gif[/img][/center]
+
+[Right][size=75][color=#808080]© Anna Wexler, Don Johnson
+Доработал: Matthew Cameron, Joseph Cameron.[/color][/size][/Right]
+
+
+
+[center][img]http://i.yapx.ru/yiyE.png[/img][/center]
+
+
+
+[b][size=95][color=#BFBFBF]Повязка взвода - [/color][color=#FF4000]/clist 10[/color][/size][/b]
+
+[img]http://x-lines.ru/icp/ghW124/E1771E/1/14/RzRaRdRaRCRiID1.png[/img]
+
+[b][size=95][color=#BF0000]•[/color] [color=#BFBFBF]Взвод обеспечивает охрану транспортной части "Зоны 51".[/color]
+[color=#BF0000]•[/color] [color=#BFBFBF]Взвод занимается охраной территории в районе систем ПВО, стоянки, военных истребителей «Hydra».[/color]
+[color=#BF0000]•[/color] [color=#BFBFBF]Посты ниже расположены по приоритету важности, от наиболее важного к наименее приоритетному.[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Взвод обеспечивает охрану на следующих постах:[/color][/size][/b]
+
+[b][size=95][color=#BF0000]1.[/color] [color=#FF4000]Ангары.[/color][/size][/b]
+[spoiler][img]http://s017.radikal.ru/i439/1508/7e/76d26946aab6.jpg[/img]
+[img]http://s013.radikal.ru/i323/1509/36/30968a9c7924.jpg[/img]
+[b][size=95][color=#BFBFBF]Максимальное количество на посту:[/color] [color=#BF0000]5[/color][color=#BFBFBF].[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Правила поведения на посту:[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Если находясь на посту вы увидели как в сторону "Сетки" на всей скорости движется матовоз, и вы понимаете, что он не собирается останавливаться, а идет на таран, то вы имеете полное право открыть огонь на поражение.[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Если находясь на посту вы увидели как посторонний проник в часть, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Если вы увидели как из ангаров выезжает матовоз без опознавательных знаков[/color] [color=#FF0040]ВО[/color] [color=#BFBFBF]или же другого спец.взвода армии (то есть без повязки /clist 0), то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size][/b][/spoiler]
+
+[right][b][size=95][color=#BF0000]2.[/color] [color=#FF4000]Охрана периметра забора - ОПЗ.[/color][/size][/b]
+[spoiler][img]http://s018.radikal.ru/i500/1509/87/b42a1f253ef3.jpg[/img]
+[b][size=95][color=#BFBFBF]Максимальное количество на посту:[/color] [color=#BF0000]3[/color][color=#BFBFBF].[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Правила поведения на посту:[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Пост охраняется методом караула.[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Если вы увидели постороннего за забором, то вы обязаны приказать ему покинуть территорию и дать отсчет до [u]пяти[/u], если это его не убедит, то сделайте предупредительный выстрел в воздух, если и после этого посторонний отказывается покинуть территорию, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Если находясь на посту, вы увидели как посторонний проник в часть, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size][/b][/spoiler][/right]
+
+[b][size=95][color=#BF0000]3.[/color] [color=#FF4000]Противовоздушная оборона 1 - ПВО 1.[/color][/size][/b]
+[spoiler][img]http://s018.radikal.ru/i503/1509/78/5572039e8207.jpg[/img]
+[b][size=95][color=#BFBFBF]Максимальное количество на посту:[/color] [color=#BF0000]4[/color][color=#BFBFBF].[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Правила поведения на посту:[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Пост охраняется методом караула.[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Если вы увидели постороннего за забором, то вы обязаны приказать ему покинуть территорию и дать отсчет до [u]пяти[/u], если это его не убедит, то сделайте предупредительный выстрел в воздух, если и после этого посторонний отказывается покинуть территорию, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Если находясь на посту, вы увидели как посторонний проник в часть, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size][/b][/spoiler]
+
+[right][b][size=95][color=#BF0000]4.[/color] [color=#FF4000]Противовоздушная оборона 2 - ПВО 2.[/color][/size][/b]
+[spoiler][img]http://s010.radikal.ru/i312/1509/ef/9621b2f99534.jpg[/img]
+[b][size=95][color=#BFBFBF]Максимальное количество на посту:[/color] [color=#BF0000]4[/color][color=#BFBFBF].[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Правила поведения на посту:[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Пост охраняется методом караула.[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Если вы увидели постороннего за забором, то вы обязаны приказать ему покинуть территорию и дать отсчет до [u]пяти[/u], если это его не убедит, то сделайте предупредительный выстрел в воздух, если и после этого посторонний отказывается покинуть территорию, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Если находясь на посту, вы увидели как посторонний проник в часть, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size][/b][/spoiler][/right]
+
+[b][size=95][color=#BF0000]5.[/color] [color=#FF4000]Стоянка.[/color][/size][/b]
+[spoiler][img]https://s32.postimg.org/5hwzn5td1/image.jpg[/img]
+[b][size=95][color=#BFBFBF]Максимальное количество на посту:[/color] [color=#BF0000]3[/color][color=#BFBFBF].[/color][/size][/b]
+
+[b][size=95][color=#BFBFBF]Правила поведения на посту:[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]На данном посту производится охрана личного и служебного транспорта.[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Если вы видите как за руль хаммера садится боец без повязки и бронежилета, то вы должны спросить у него документы, в случае отказа предоставлять документы, или же, если он окажется не бойцом армии "Зона 51", то вы имеете полное право его нейтрализовать.[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Если находясь на посту, вы увидели как посторонний проник в часть, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size]
+[size=95][color=#FF4000]•[/color] [color=#BFBFBF]Если находясь на посту, вы увидели как посторонний угоняет личный транспорт бойцов, то вы имеете [u]полное право[/u] открыть огонь на поражение.[/color][/size]
+[size=95][color=#BF0000]Задача:[/color] [color=#BFBFBF]Не дать посторонним/бандитам угнать личный или служебный транспорт.[/color][/size][/b][/spoiler]
+
+[img]http://x-lines.ru/icp/ghW124/E1771E/1/14/RtReRgRiPRvRzRvRoRdRaID1.png[/img]
+[code]/r [Взв. 3 взвода]:
+/r [Зам.Взв. 3 взвода]:
+/r [3 взвод]:[/code]
+
+[img]http://x-lines.ru/icp/ghW124/E1771E/1/14/RdRoRkRlRaRdRqID1.png[/img]
+
+[b][size=95][color=#BFBFBF]Взвод обязан докладывать в рацию о состоянии поста и при незаконном проникновении в часть "Зона 51".
+Доклады только при нападении и отражении нападения.[/color][/size][/b]
+[code]/r [3 взвод]: Пост: Ангары; Бойцов: 4/5; Состояние: Третий ангар, нападение.
+/r [3 взвод]: Пост: ОПЗ; Бойцов: 3/3; Состояние: Враг ликвидирован.[/code]
+
+[center][url=https://docs.google.com/spreadsheets/d/1EPk7184x7CM-g13J0gfaOr6Lv_fhgJX86Z9jiwNz2r0/pubhtml#][img]http://x-lines.ru/icp/ghW124/E1771E/1/14/RsRoRsRtRaRvPRtRrReRtRxReRgRoPRvRzRvRoRdRa.png[/img][/url]
+[img]http://i.imgur.com/TdB5hfF.gif[/img][/center]
+
+[Right][size=75][color=#808080]© Don Johnson
+Доработал: Matthew Cameron, Joseph Cameron.[/color][/size][/Right]

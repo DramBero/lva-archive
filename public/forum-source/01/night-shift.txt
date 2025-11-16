@@ -1,0 +1,48 @@
+﻿[center][img]http://i.imgur.com/GPKcNjQ.gif[/img]
+[url=http://samp-rp.su/viewtopic.php?f=62&t=2051563][img]http://i.imgur.com/vw4deV2.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051479][img]http://i.imgur.com/QkkZb5l.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051665][img]http://i.imgur.com/CTvk6DG.png[/img][/url][url=httpф://samp-rp.su/viewtopic.php?f=62&t=2051660][img]http://i.imgur.com/NbOGqzY.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051512][img]http://i.imgur.com/shAGRT4.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051529][img]http://i.imgur.com/NADiElZ.png[/img][/url][url=http://samp-rp.su/viewtopic.php?f=62&t=2051464][img]http://i.imgur.com/yslluPV.png[/img][/url][/center]
+
+
+
+[center][img]http://i.imgur.com/c184o.png[/img][/center]
+[center][img]http://x-lines.ru/icp/ghW30/215670/1/20/noCnoePdeZurstvo.png[/img][/center]
+[center][img]http://i.imgur.com/c184o.png[/img][/center]
+
+
+
+[color=#FFFF80][b][center]Каждый день, по окончанию рабочего дня, любой боец может остаться на ночное дежурство![/center][/b][/color]
+[b][center][color=#FFFF80]Ночное дежурство начинается с 00:00 и заканчивается 06:00.[/color][/center][/b]
+
+[center][img]http://x-lines.ru/icp/ghW30/215670/1/16/trebovaniy.png[/img]
+
+[b]• После дежурства, вы должны отписаться на форуме ( скрины делать каждые 15 минут )!
+• Затем после проверки вашего отчета, вы получаете денежное вознаграждение! 
+• Для получение премии после убийства клоуна, делайте два скриншота: с +500 и с /time после того как пропадет надпись +500![/b][/center]
+
+
+
+[center][img]http://x-lines.ru/icp/ghW30/215670/1/16/deneZnoePvoznagraZdenie.png[/img][/center]
+[center][b][color=#BF8000]Дежурство от 00:00-01:00 - 2000 вирт за час.
+Дежурство от 01:00-02:00 - 2500 вирт за час.
+Дежурство от 02:00-03:00 - 4000 вирт за час.
+Дежурство от 03:00-04:00 - 4500 вирт за час.
+Дежурство от 04:00-05:00 - 6000 вирт за час.
+Дежурство от 05:00-06:00 - 7500 вирт за час.[/color][/b][/center]
+[b][center][color=#FF8000]Поймано сливщиков: 1 сливщик - 8000 вирт.
+Убито клоунов: 1 клоун - 6000 вирт.[/color][/center][/b]
+
+[size=85][color=#FF0000]Примечание: клоуны - это переодетые в форму бандиты.
+Для того чтобы подтвердить подлинность вашего отчета нужна любого роды отыгровка /me.
+Пример: /me взглянул на часы[/color][/size]
+
+[b][color=#FF4000]За выдачей премий обращаться к Подполковнику Petr Kovalyov.[/color][/b]
+
+
+[b]Отчеты оставлять по коду:[/b]
+[code][color=#BF4000][b]Ваш ник:[/b][/color] [b]Имя Фамилия[/b]
+[color=#FF4000][b]Ваше звание:[/b][/color] [b]писать тут[/b]
+[color=#FF4000][b]Время проведённое в ночном дежурстве:[/b][/color] [b]писать тут[/b]
+[color=#FF4000][b]Чем вы занимались во время ночного дежурства?[/b][/color] [b]писать тут[/b]
+[color=#FF4000][b]Скриншоты ( время ):[/b][/color] [b]ссылка тут[/b][/code]
+
+[right][size=75][color=#808080]© Mad Dip, Alon Groyp
+Доработал: Matthew Cameron.[/color][/size][/right]
